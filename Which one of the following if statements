@@ -1,0 +1,22 @@
+Which one of the following if statements will not execute successfully:
+1. if (1, 2):
+        print('hello')
+2. If (1):
+	    print(“hello”)
+3. If (1<2): print(“hello”)
+4. If (1<2):
+    print(“hello”)
+
+
+
+What would be the value of x:
+x = 0
+while (x < 100):
+  x+=2
+print(x)
+
+
+a) 101
+b) 99
+c) 100
+d) None of them

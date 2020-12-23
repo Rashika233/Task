@@ -1,0 +1,5 @@
+list--> 500 elements
+
+range(start_value, end_value-1)
+
+range(1, 500)
